@@ -1,5 +1,5 @@
 {
   "type": "module",
-  // это комментарий - ТАК НЕЛЬЗЯ В JSON
-  "name": "my-project"
+   "name": "my-project"
 }
+
