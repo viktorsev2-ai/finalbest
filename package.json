@@ -1,5 +1,5 @@
-// package.json
 {
   "type": "module",
-  // ... остальные поля
+  // это комментарий - ТАК НЕЛЬЗЯ В JSON
+  "name": "my-project"
 }
